@@ -10,6 +10,6 @@ COPY . /app
 
 WORKDIR /app
 
-CMD ["gunicorn", "api_yamdb.wsgi:application", "--bind", "0:8000"]
+CMD ["sh", "run.sh"]
 
 LABEL author='d4mir.sh.d@yandex.ru' version=1 
