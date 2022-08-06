@@ -5,7 +5,7 @@
 
 ### Стек технологий
 
-![gunicorn](https://img.shields.io/badge/gunicorn-blue) ![Nginx](https://img.shields.io/badge/Nginx-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Docker-compose](https://img.shields.io/badge/Docker--compose-blue) 
+![gunicorn](https://img.shields.io/badge/gunicorn-blue) ![Nginx](https://img.shields.io/badge/Nginx-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Docker-compose](https://img.shields.io/badge/Docker--compose-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 
 
 ### Шаблон наполнения env-файла
